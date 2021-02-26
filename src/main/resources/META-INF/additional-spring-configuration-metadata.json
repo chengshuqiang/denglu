@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "jwt.config.key",
+      "type": "java.lang.String",
+      "description": "jwt的key."
+    },
+    {
+      "name": "jwt.config.timeout",
+      "type": "java.lang.Long",
+      "description": "jwt有效时间."
+    }
+  ]
+}
